@@ -27,6 +27,16 @@
 ## Base64 디코딩
     java RyanBase64 d 입력파일 출력파일
     
+# 참고사항
+
+윈도우즈 환경이라면 아래 명령어를 통해 출력결과를 클립보드에 복사할 수 있다.
+
+    java RyanBase64 e 입력파일 | clip
+
+클립보드에 있는 내용을 파일로 출력하려면 명령 프롬프트(cmd)로는 별도 프로그램이 필요하기 때문에 powershell 명령어를 사용하면 된다.
+
+    powershell Get-Clipboard > 출력파일 
+    
 # 개발자 연락처
 
 라이언양(ryan.yang.sa@gmail.com)
