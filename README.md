@@ -39,12 +39,9 @@
 
 # 변경사항
 
-파이썬 기반의 GUI 프로그램을 추가했어요. 아래 파일을 같은 폴더에 두고 아래 명령으로 실행하세요. (2023.11.18)
+파이썬 기반의 GUI 프로그램을 추가했어요. RyanBase64.py, ryanyang_profile.png 파일을 같은 폴더에 두고 아래 명령을 실행하세요. (2023.11.18)
 
-  - RyanBase64.py
-  - ryanyang_profile.png
-
-        python RyanBase64.py
+    python RyanBase64.py
 
 # 개발자 연락처
 
