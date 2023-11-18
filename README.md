@@ -1,4 +1,4 @@
-# 프로그램 설명
+![image](https://github.com/ryanyangsa/RyanBase64/assets/36325375/9830d458-bc1e-4848-a2df-f27671efb009)# 프로그램 설명
 
 입력 파일을 Base64로 인코딩 및 디코딩을 하는 자바 프로그램
 
@@ -42,6 +42,8 @@
 파이썬 기반의 GUI 프로그램을 추가했어요. RyanBase64.py, ryanyang_profile.png 파일을 같은 폴더에 두고 아래 명령을 실행하세요. (2023.11.18)
 
     python RyanBase64.py
+
+![image](https://github.com/ryanyangsa/RyanBase64/assets/36325375/74812ddb-9a6a-4b3b-b1d5-082d1da53756)
 
 # 개발자 연락처
 
