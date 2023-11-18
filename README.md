@@ -43,7 +43,7 @@
 
     python RyanBase64.py
 
-![image](https://github.com/ryanyangsa/RyanBase64/assets/36325375/9830d458-bc1e-4848-a2df-f27671efb009)
+<img width="400" alt="image" src="https://github.com/ryanyangsa/RyanBase64/assets/36325375/9830d458-bc1e-4848-a2df-f27671efb009">
 
 # 개발자 연락처
 
