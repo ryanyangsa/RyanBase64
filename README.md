@@ -45,6 +45,10 @@
 
 <img width="400" alt="image" src="https://github.com/ryanyangsa/RyanBase64/assets/36325375/9830d458-bc1e-4848-a2df-f27671efb009">
 
+# 실행파일 다운로드
+
+Mac OS X(ARM) 에서 실행이 가능한 프로그램 다운로드 하기 https://lab.ryanyang.kr/ryanbase64/RyanBase64-mac-arm64.zip
+
 # 개발자 연락처
 
 라이언양(ryan.yang.sa@gmail.com)
