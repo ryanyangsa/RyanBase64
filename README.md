@@ -47,7 +47,8 @@
 
 # 실행파일 다운로드
 
-Mac OS X(ARM) 에서 실행이 가능한 프로그램 다운로드 하기 https://lab.ryanyang.kr/ryanbase64/RyanBase64-mac-arm64.zip
+- Mac OS X(ARM) 에서 실행 가능한 프로그램 다운로드 하기 https://lab.ryanyang.kr/ryanbase64/RyanBase64-mac-arm64.zip
+- Windows 에서 실행 가능한 프로그램 다운로드 하기 https://lab.ryanyang.kr/ryanbase64/RyanBase64-win-x64.zip
 
 # 개발자 연락처
 
