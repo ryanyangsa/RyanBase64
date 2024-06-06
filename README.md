@@ -50,6 +50,21 @@
 - Mac OS X(ARM) 에서 실행 가능한 프로그램 다운로드 하기 https://lab.ryanyang.kr/ryanbase64/RyanBase64-mac-arm64.zip
 - Windows 에서 실행 가능한 프로그램 다운로드 하기 https://lab.ryanyang.kr/ryanbase64/RyanBase64-win-x64.zip
 
+# 참고사항
+
+인코딩 및 디코딩 시, 아래와 같은 오류가 발생할 수 있다.
+
+Exception in thread "main" java.lang.OutOfMemoryError: Java heap space
+        at java.util.Base64$Decoder.decode(Unknown Source)
+        at RyanBase64.decode(RyanBase64.java:33)
+        at RyanBase64.main(RyanBase64.java:18)
+
+이 경우에는 아래 명령어로 java 를 실행하면 된다.
+
+java -Xms256m -Xmx512m RyanBase64 d 인코딩파일명 디코딩파일명
+
+예) java -Xms256m -Xmx512m RyanBase64 d 1.zip.e 1.zip
+
 # 개발자 연락처
 
 라이언양(ryan.yang.sa@gmail.com)
